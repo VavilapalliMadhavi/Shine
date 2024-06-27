@@ -390,6 +390,10 @@ color:#31313B ;
         height: 14.9px;
     }
 }
+
+.text{
+    text-decoration: none !important;
+}
 @media screen and (max-width:425px){
     .designed_by {
         text-align: left !important;
